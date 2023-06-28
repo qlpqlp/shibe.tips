@@ -1,2 +1,16 @@
-# shibe.tips
-Shibe Tips, generate an easy URL that on Click open a Dogecoin Wallet on Mobile or a QR Code on other devices.
+<h1 align="center">
+Shibe.Tips
+<br><br>
+Generate a Sharing Dogecoin Tips URL that enables on mobile devices to automaticly ask for the Dogecoin Wallet and on other devices it shows a QR Code and your Doge Address
+<br><br>
+<img src="https://Shibe.Tips/img/shibetips_preview1.png" alt="Create your own Easy Dogecoin Tips URL"/>
+<img src="https://Shibe.Tips/img/shibetips_preview2.png" alt="Create your own Easy Dogecoin Tips URL"/>
+<br><br>
+</h1>
+
+## How to Install 💻
+
+1- Get an Hosting Account or Web Server that supports ```PHP (V. 7.3 =>)``` (also works locally with Docker or Xampp for exemple)
+
+2- Upload all files changing the Domain Name on ```index.php``` to your own Domain
+

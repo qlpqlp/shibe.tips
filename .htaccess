@@ -1,0 +1,11 @@
+RewriteEngine on
+RewriteBase /
+
+# external redirect from actual URL to pretty one
+RewriteCond %{THE_REQUEST} /index\.php\?dogecoin=([^\s&]+) [NC]
+RewriteRule ^ %1? [R=302,L,NE]
+
+# internal forward from pretty URL to actual one
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^(.+?)/?$ index.php?dogecoin=$1 [L,QSA]
