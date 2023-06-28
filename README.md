@@ -1,12 +1,14 @@
 <h1 align="center">
 Shibe.Tips
+</h1>  
+<center>
 <br><br>
 Generate a Sharing Dogecoin Tips URL that enables on mobile devices to automaticly ask for the Dogecoin Wallet and on other devices it shows a QR Code and your Doge Address
 <br><br>
 <img src="https://Shibe.Tips/img/shibetips_preview1.png" alt="Create your own Easy Dogecoin Tips URL"/>
 <img src="https://Shibe.Tips/img/shibetips_preview2.png" alt="Create your own Easy Dogecoin Tips URL"/>
+</center>center>  
 <br><br>
-</h1>
 
 ## How to Install 💻
 
